@@ -20,3 +20,17 @@ SIFAT WAITER: 5.21.03
 SIFAT ERP: 8.19.09
 
 BANCO DE DADOS MYSQL: Db224
+
+## Instalação:
+
+1- Instale o NODEJS e o NPM, baixe o arquivo zip do repositório e faça a extração.
+
+2- Abra o CMD (Windows) ou o terminal (LINUX), digite cd e navegue até o diretório da pasta que você extraiu.
+
+3- Instale o venom-bot: npm i --save venom-bot
+
+4- Instale o módulo mysql: npm i --save mysql
+
+5- Instale o módulo mongoose: npm i --save mongoose
+
+6- Execute o projeto digitando node botsifat.js, se for necessário, altere o caminho dos arquivos da Enviroment no começo do arquivo, escaneie o qrcode do WhatsApp no CMD ou terminal e customize as mensagens de acordo com o seu gosto.
