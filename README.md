@@ -1,5 +1,5 @@
 # SIFAT_BOT_WhatsApp
-BOT de WhatsApp para o sistema SIFAT, o bot é responsável por dar as mensagem de boas vindas e avisar os clientes quando alguma compra for realizada em seu nome. Construido em NODEJS
+BOT de WhatsApp para o sistema SIFAT, o bot é responsável por dar as mensagem de boas vindas e avisar os clientes quando alguma compra for realizada em seu nome. Construido em NODEJS, FEITO PARA ATÉ 3 PDV's.
 
 ## Pré-requisitos:
 
