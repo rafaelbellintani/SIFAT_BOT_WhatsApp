@@ -37,3 +37,7 @@ Antes de iniciar, é necessário entrar em contato com a empresa fornecedora do 
 5- Instale o módulo mongoose: npm i --save mongoose
 
 6- Execute o projeto digitando node botsifat.js, se for necessário, altere o caminho dos arquivos da Enviroment no começo do arquivo, escaneie o qrcode do WhatsApp no CMD ou terminal e customize as mensagens de acordo com o seu gosto.
+
+## Informações Adicionais:
+
+Caso alguém coloque o WhatsApp no WhatsApp WEB fora do sistema, o sistema automaticamente irá cancelar o WhatsApp WEB do computador em que foi colocado, e reconectará no sistema, já estou trabalhando em uma solução para esse problema.
