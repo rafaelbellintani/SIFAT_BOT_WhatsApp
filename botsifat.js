@@ -202,7 +202,7 @@ var databasedb = 'bdsifat'; //Database padrão
                                 }else{
                                     await client.sendText('55'+v3.telefone+'@c.us', 'Olá *' + v3.nome + '* vimos que você '+
                                 'realizou uma compra conosco:\n\n' + '*Valor:* ' + v1.valorPagamento + '\n*Data:* ' + dataRecebimento.dayMonth + " " + dataRecebimento.month + "\n*Hora:* " + v1.hora + "\n*Caixa:* " + v1.caixa + "\n\n" +
-                                "Você já utilizou *"+valorTotalTitulo+"* de *" + Intl.NumberFormat('pt-BR', { style: 'currency', currency: 'BRL'}).format(v3.limiteCredito) + "* do seu limite de crédito na Conveniência do Alameda.");  
+                                "Você já utilizou *"+valorTotalTitulo+"* de *" + Intl.NumberFormat('pt-BR', { style: 'currency', currency: 'BRL'}).format(v3.limiteCredito) + "* do seu limite de crédito no Restaurante.");  
                                 }
                                 
                                 
