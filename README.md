@@ -3,6 +3,8 @@ BOT de WhatsApp para o sistema SIFAT, o bot é responsável por dar as mensagem 
 
 OBS.: Não tenho qualquer ligação com a SIFAT.
 
+Qualquer dúvido entre em contato: sakria@protonmail.com
+
 ## Pré-requisitos:
 
 *MONGODB
