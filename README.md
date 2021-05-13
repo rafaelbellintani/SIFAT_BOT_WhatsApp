@@ -24,6 +24,8 @@ BANCO DE DADOS MYSQL:
 
 ## Instalação:
 
+Antes de iniciar, é necessário entrar em contato com a empresa fornecedora do SIFAT, e pedir para que criem um usuário e senha em modo consulta no MYSQL, e adicionar no arquivo JS.
+
 1- Instale o NODEJS e o NPM, baixe o arquivo zip do repositório e faça a extração.
 
 2- Abra o CMD (Windows) ou o terminal (LINUX), digite cd e navegue até o diretório da pasta que você extraiu.
