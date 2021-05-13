@@ -1,8 +1,8 @@
 
-const { remove } = require("../BOTSIFAT/Enviroment/database");
-const sell = require("../BOTSIFAT/Enviroment/database").sell;
-const user = require("../BOTSIFAT/Enviroment/database").user;
-const venom = require("../BOTSIFAT/Enviroment/venom");
+const { remove } = require("../Enviroment/database");
+const sell = require("../Enviroment/database").sell;
+const user = require("../Enviroment/database").user;
+const venom = require("../Enviroment/venom");
 var messageCounter = 0;
 var ip = 'ip banco de dados sifat';
 var userdb = 'usuario banco de dados sifat';
