@@ -40,4 +40,4 @@ Antes de iniciar, é necessário entrar em contato com a empresa fornecedora do 
 
 ## Informações Adicionais:
 
-Caso alguém coloque o WhatsApp no WhatsApp WEB fora do sistema, o sistema automaticamente irá cancelar o WhatsApp WEB do computador em que foi colocado, e reconectará no sistema, já estou trabalhando em uma solução para esse problema.
+Caso alguém coloque o WhatsApp no WhatsApp WEB fora do sistema, o sistema automaticamente irá cancelar o WhatsApp WEB do computador em que foi colocado, e reconectará no sistema, já estou trabalhando em uma solução para que se possa usar tanto no computador quanto no sistema ao mesmo tempo.
