@@ -19,7 +19,8 @@ SIFAT WAITER: 5.21.03
 
 SIFAT ERP: 8.19.09
 
-BANCO DE DADOS MYSQL: Db224
+BANCO DE DADOS MYSQL: 
+ *Versões testadas: Db223 e Db224
 
 ## Instalação:
 
