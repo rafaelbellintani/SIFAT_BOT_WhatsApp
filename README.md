@@ -3,8 +3,6 @@ BOT de WhatsApp para o sistema SIFAT, Feito em NODE.JS, o bot é responsável po
 
 OBS.: Não tenho qualquer ligação com a SIFAT.
 
-Qualquer dúvida entre em contato: sakria@protonmail.com
-
 ## Pré-requisitos:
 
 *MONGODB
