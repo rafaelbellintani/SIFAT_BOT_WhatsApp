@@ -1,5 +1,5 @@
 # Whatsbot SIFAT
-BOT de WhatsApp para o sistema SIFAT, Feito em NODE.JS, o bot é responsável por dar as mensagem de boas vindas e avisar os clientes quando alguma compra for realizada em seu nome, caso o cliente tenha limite de crédito para compra a prazo, será avisado o tanto que já foi utilizado, e o valor restante. Construido em NODEJS, FEITO PARA ATÉ 3 PDV's.
+BOT de WhatsApp para o sistema SIFAT, Feito em NODE.JS, o bot é responsável por dar as mensagem de boas vindas de acordo com o que for programado e avisar aos clientes quando alguma compra foi realizada em seu nome, caso o cliente tenha limite de crédito para compra a prazo, será avisado a quantidade já utilizada, e o valor disponpuvek. Construido em NODEJS, FEITO PARA ATÉ 3 PDV's.
 
 OBS.: Não tenho qualquer ligação com a SIFAT.
 
