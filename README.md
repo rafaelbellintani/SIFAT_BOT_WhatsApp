@@ -28,7 +28,7 @@ BANCO DE DADOS MYSQL:
 
 Antes de iniciar, é necessário entrar em contato com a empresa fornecedora do sistema SIFAT, e pedir para que criem um usuário e senha em modo consulta no MYSQL, e depois em posse do usuário e senha adicionar no arquivo JS.
 
-1- Instale o NodeJS em conjunto com o NPM, de um git clone nesse repositório.
+1- Instale o NodeJS em conjunto com o NPM e dê um git clone nesse repositório.
 
 2- Abra o CMD (Windows) ou o terminal (LINUX), digite cd e navegue até o diretório do repositório clonado.
 
