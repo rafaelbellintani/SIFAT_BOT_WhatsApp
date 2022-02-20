@@ -5,15 +5,15 @@ OBS.: Não tenho qualquer ligação com a SIFAT.
 
 ## Tecnologias utilizadas:
 
-*MONGODB
+*Mongo
 
 *NodeJS
 
-*VENOM-BOT
+*Venom-Bot
 
-*MYSQL
+*Mysql
 
-*MONGOOSE
+*Mongoose
 
 ## Versão Sifat e MYSQL:
 
