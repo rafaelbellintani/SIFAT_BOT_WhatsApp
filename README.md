@@ -3,17 +3,17 @@ BOT de WhatsApp para o sistema SIFAT, Feito em NODE.JS, o bot é responsável po
 
 OBS.: Não tenho qualquer ligação com a SIFAT.
 
-## Pré-requisitos:
+## Tecnologias utilizadas:
 
 *MONGODB
 
 *NodeJS
 
-*VENOM-BOT (npm i --save venom-bot)
+*VENOM-BOT
 
-*MYSQL (npm i --save mysql)
+*MYSQL
 
-*MONGOOSE (npm i --save mongoose)
+*MONGOOSE
 
 ## Versão Sifat e MYSQL:
 
@@ -26,19 +26,15 @@ BANCO DE DADOS MYSQL:
 
 ## Instalação:
 
-Antes de iniciar, é necessário entrar em contato com a empresa fornecedora do SIFAT, e pedir para que criem um usuário e senha em modo consulta no MYSQL, e depois em posse do usuário e senha adicionar no arquivo JS.
+Antes de iniciar, é necessário entrar em contato com a empresa fornecedora do sistema SIFAT, e pedir para que criem um usuário e senha em modo consulta no MYSQL, e depois em posse do usuário e senha adicionar no arquivo JS.
 
-1- Instale o NODEJS e o NPM, baixe o arquivo zip do repositório e faça a extração.
+1- Instale o NodeJS em conjunto com o NPM, de um git clone nesse repositório.
 
-2- Abra o CMD (Windows) ou o terminal (LINUX), digite cd e navegue até o diretório da pasta que você extraiu.
+2- Abra o CMD (Windows) ou o terminal (LINUX), digite cd e navegue até o diretório do repositório clonado.
 
-3- Instale o venom-bot: npm i --save venom-bot
+3- Instale todos os módulos digitando npm install
 
-4- Instale o módulo mysql: npm i --save mysql
-
-5- Instale o módulo mongoose: npm i --save mongoose
-
-6- Execute o projeto digitando node botsifat.js, se for necessário, altere o caminho dos arquivos da Enviroment no começo do arquivo, escaneie o qrcode do WhatsApp no CMD ou terminal e customize as mensagens de acordo com o seu gosto.
+4- Execute o projeto digitando node botsifat.js, se for necessário, altere o caminho dos arquivos da Enviroment no começo do arquivo, escaneie o qrcode do WhatsApp no terminal do seu SO e customize as mensagens de acordo com o seu gosto.
 
 ## Informações Adicionais:
 
